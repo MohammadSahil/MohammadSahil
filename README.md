@@ -3,9 +3,9 @@
 </div>
 <div align="center">
 
-[![LinkedIn Link](https://img.shields.io/badge/linkedin/in/skshashankkumar41%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/mohammadsahil963/)
-[![Medium link](https://img.shields.io/badge/-medium.com/@skshashankkumar41-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@mhdsahilkhn)
-[![Instagram Link](https://img.shields.io/badge/instagram.com/i_shashank25%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/saahhillll/)
+[![LinkedIn Link](https://img.shields.io/badge/linkedin/in/mohammadsahil963%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/mohammadsahil963/)
+[![Medium link](https://img.shields.io/badge/-medium.com/@mhdsahilkhn-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@mhdsahilkhn)
+[![Instagram Link](https://img.shields.io/badge/instagram.com/saahhillll25%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/saahhillll/)
 </div>
 
 
